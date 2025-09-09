@@ -10,7 +10,7 @@
 
 
 <h2>Introduction</h2>
-<p>In this lab, it's about accessing the share folder where different departments access and upload word documents, powerpoint, videos, pictures and other file types</p>
+<p>In this lab, it's about accessing the share folder where different departments access and upload word documents, powerpoint, videos, pictures and other file types.</p>
 
 
 <img width="767" height="612" alt="Screenshot from 2025-09-08 09-42-57" src="https://github.com/user-attachments/assets/930567c0-efca-4da5-8ad1-a4537e3b037d" />
@@ -23,3 +23,5 @@
 <h1>Setting up File Services</h1>
 
 <p>I create a folder name Shared and put in C drive (\C:). Then, I went to GPO manaagement Editor and create GPO object rule call MappedSharedDrive and I copied source path directory folder, \\DCHuskyTech\Shared\, in the gpo rule setting and apply to the Users under the Actiuve Directory: Users and Computers.</p>
+
+
