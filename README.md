@@ -22,6 +22,6 @@
 
 <h1>Setting up File Services</h1>
 
-<p>I create a folder name Shared and put in C drive (\C:). Then, I went to GPO manaagement Editor and create GPO object rule call MappedSharedDrive and I copied source path directory folder, \\DCHuskyTech\Shared\, in the gpo rule setting and apply to the Users under the Actiuve Directory: Users and Computers.</p>
+<p>I create a folder name Shared and put in C drive (C:\\). Then, I went to GPO manaagement Editor and create GPO object rule call MappedSharedDrive and I copied source path directory folder, \\DCHuskyTech\Shared\, in the gpo rule setting and apply to the Users under the Actiuve Directory: Users and Computers.</p>
 
 
